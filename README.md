@@ -8,4 +8,4 @@ This is a on going project, it will have something out really soon.
 
 A very early look is like - 
 
-![alt text](https://github.com/xiaopeng-liao/confusion_matrix_panel/tree/master/images/cm_grafana.png)
+![alt text](https://github.com/xiaopeng-liao/confusion_matrix_panel/blob/master/images/cm_grafana.png)
