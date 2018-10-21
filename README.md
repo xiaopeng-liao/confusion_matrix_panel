@@ -6,3 +6,6 @@ On the other hand, Grafana is a such a nice tool which is easy to setup and use,
 
 This is a on going project, it will have something out really soon.
 
+A very early look is like - 
+
+![alt text](https://github.com/xiaopeng-liao/confusion_matrix_panel/tree/master/images/cm_grafana.png)
